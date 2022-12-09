@@ -1,0 +1,17 @@
+
+.content {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  font: 16px 'Indie Flower';
+  height: 50%;
+  text-align: center;
+  background: #cd5c5c;
+  color: #fff;
+  height: 55%;
+  text-align: center;
+  width: 60%;
+}
